@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">EssayDesign4</string>
+    <string name="OpenDrawer">Open navigation drawer</string>
+    <string name="CloseDrawer">Close navigation drawer</string>
+    <!-- TODO: Remove or change this placeholder text -->
+
+    <string name="First">
+        Colour/Shade Fidelity
+    </string>
+    <string name="desc">
+        The shades displayed on this app are indicative and are not
+        precise representations of actual paint colours due to vari-
+        ance in screen calibrations and resolution as well as screen
+        settings.While scientific tools have been used to match
+        colours and make them look like the paint you will use yet,
+    </string>
+    <string name="desc1">
+          you may bring any of the colour shade code to your local
+        Colour World Dealer to match and/ or order the exact colour
+        that you are looking for.
+    </string>
+
+    <string name="desc3">
+                   I accept terms and conditions
+    </string>
+
+    <string name="desc4">
+          Version 5.0
+    </string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="home">Home</string>
+    <string name="design">Design</string>
+    <string name="category">category</string>
+    <string name="mylibrary">MyLibrary</string>
+    <string name="Camera">Camera</string>
+</resources>

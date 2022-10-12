@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/optHome"
+        android:title="Home"
+        android:icon="@drawable/ic_home"
+        />
+
+    <item
+        android:id="@+id/optideas"
+        android:title="Ideas"
+        android:icon="@drawable/ic_ideas"/>
+
+    <item
+        android:id="@+id/optCategory"
+        android:title="category"
+        android:icon="@drawable/ic_ategory"/>
+
+    <item
+        android:id="@+id/optMylibrary"
+        android:title="MyLibrary"
+        android:icon="@drawable/ic_folder"/>
+
+    <item
+        android:id="@+id/optAbout"
+        android:title="About"
+        android:icon="@drawable/ic_info"/>
+    <item
+        android:id="@+id/optManual"
+        android:title="Manual"
+        android:icon="@drawable/ic_manual"/>
+
+
+</menu>
